@@ -27,11 +27,11 @@ If specific text (e.g., "You were pulled by") is detected, the program alerts th
 
 **K** Key: Starts the automated clicking process.
 
-**L**Key: Stops the automated clicking process.
+**L** Key: Stops the automated clicking process.
 
-**J**Key: Displays the current mouse position.
+**J** Key: Displays the current mouse position.
 
-**G *and H Keys: Set new coordinates for the automation.
+**G** and H Keys: Set new coordinates for the automation.
 
 ### 5.Safe Game Closure:
 
