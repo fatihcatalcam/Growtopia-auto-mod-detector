@@ -31,7 +31,7 @@ If specific text (e.g., "You were pulled by") is detected, the program alerts th
 
 **J** Key: Displays the current mouse position.
 
-**G** and H Keys: Set new coordinates for the automation.
+**G** and **H** Keys: Set new coordinates for the automation.
 
 ### 5.Safe Game Closure:
 
