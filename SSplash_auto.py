@@ -173,8 +173,7 @@ def metin_tara(image_path):
     update_log(metin)
     return metin
 
-import pyautogui
-import time
+
 
 def growtopia_kapat():
     """Growtopia uygulamasını kapatmadan önce belirli işlemleri yapar ve uygulamayı zorla kapatır."""
