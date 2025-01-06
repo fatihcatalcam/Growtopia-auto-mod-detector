@@ -59,6 +59,18 @@ Customize Settings:
 
 Adjust mouse click coordinates and automation timing through the GUI's **Settings** button.
 
+**Main Screen**
+
+![Ekran görüntüsü 2025-01-06 104939](https://github.com/user-attachments/assets/1cc33fd7-506e-4620-a391-b32ea59b1c15)
+
+**Settings**
+
+![Ekran görüntüsü 2025-01-06 105209](https://github.com/user-attachments/assets/c5b0136d-f91d-4b9b-84a2-6c02612510a2)
+
+**After Detecting a Mod**
+
+![Ekran görüntüsü 2025-01-06 105428](https://github.com/user-attachments/assets/9d945974-8fe6-4640-b452-1ccc7eca2915)
+
 # Technical Details
 Python Version: 3.12.5
 
