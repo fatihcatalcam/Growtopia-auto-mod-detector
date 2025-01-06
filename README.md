@@ -61,15 +61,15 @@ Adjust mouse click coordinates and automation timing through the GUI's **Setting
 
 **Main Screen**
 
-![Ekran görüntüsü 2025-01-06 104939](https://github.com/user-attachments/assets/1cc33fd7-506e-4620-a391-b32ea59b1c15)
+![Ekran görüntüsü 2025-01-06 214149](https://github.com/user-attachments/assets/2b1ec01f-f8ae-4644-9b80-721b628c0035)
 
 **Settings**
 
-![Ekran görüntüsü 2025-01-06 105209](https://github.com/user-attachments/assets/c5b0136d-f91d-4b9b-84a2-6c02612510a2)
+![Ekran görüntüsü 2025-01-06 214157](https://github.com/user-attachments/assets/905e39e2-5746-491e-b91a-efea083ce26c)
 
 **After Detecting a Mod**
 
-![Ekran görüntüsü 2025-01-06 105428](https://github.com/user-attachments/assets/9d945974-8fe6-4640-b452-1ccc7eca2915)
+![Ekran görüntüsü 2025-01-06 214657](https://github.com/user-attachments/assets/2bd9ce94-5794-4920-af0f-5b7bc725610f)
 
 # Technical Details
 Python Version: 3.12.5
