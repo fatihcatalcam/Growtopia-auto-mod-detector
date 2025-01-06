@@ -361,7 +361,7 @@ def main_loop():
             text = scan_text(screenshot_path)
 
             if "You were pulled by" in text:
-                mod_warning.config(text="You were pulled by a mod!")
+                mod_warning.config(text="Mod detected!")
                 close_growtopia()
                 break
 
